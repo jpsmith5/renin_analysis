@@ -1,0 +1,42 @@
+theme: databio
+
+site_name: FoxD1 Cells to Mature Kidney Vasculature 
+site_author: Jason Smith
+site_url: http://jpsmith5.databio.org/en/latest/
+repo_url: https://github.com/jpsmith5/renin_analysis
+
+markdown_extensions:
+  - fontawesome_markdown  # pip install --user fontawesome-markdown
+  - pymdownx.details  # pip install --user pymdown-extensions
+
+nav:
+  - Introduction: 
+    - About: 'README.md'
+  - Data Analysis:
+    - 1. Create analysis environment: '01.R_env_initialization.md'
+    - 2. Load working environment: '02.R_environment_loading.md'
+    - 3. Generate arrow files: '03.R_create_arrow_files.md'
+    - 4. Perform quality control: '04.R_initial_project_QC.md'
+    - 5. Perform dimensionality reduction: '05.R_dimensionality_reduction.md'
+    - 6. Identify open chromatin: '06.R_generate_initial_peaks.md'
+    - 7. Process scRNA-seq data: '07.R_process_scRNA-seq_data.md'
+    - 8. Annotate scRNA-seq data: '08.R_annotate_scRNA-seq_data.md'
+    - 9. Integrate scATAC-seq and scRNA-seq: '09.R_integrate_RNAseq-ATAC-seq.md'
+    - 10. Identify marker regions: '10.R_identify_integrated_marker_peaks.md'
+    - 11. Add motif annotations: '11.R_add_motif_annotations.md'
+    - 12. Identify JG cells: '12.R_identify_JG_cells.md'
+    - 13. Identify trajectory: '13.R_identify_trajectory.md'
+    - 14. Identify positive regulators: '14.R_identify_positive_regulators.md'
+    - 15. Extract and plot markers: '15.R_calc_coaccessibility_extract_markers.md'
+    - 16. Generate signal tracks: '16.R_signal_tracks.md'
+    - 17. Plot genes of interest: '17.R_plot_motifs.md'
+    - 18. Generate bubble plots: '18.R_generate_bubble_plots.md'
+
+plugins:
+  - search
+
+navbar:
+  right:
+  - text: Software & Data
+    icon: fa-code fa-lg
+    href: https://github.com/jpsmith5/
