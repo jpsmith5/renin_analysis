@@ -1,5 +1,4 @@
 fontawesome-markdown
-pymdownx.details
 https://github.com/databio/mkdocs-databio/archive/master.zip
 mkdocs==1.2.3
 jinja2==3.0.0
