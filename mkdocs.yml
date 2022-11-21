@@ -1,8 +1,8 @@
 theme: databio
 
-site_name: FoxD1 Cells to Mature Kidney Vasculature 
+site_name: Uncovering the epigenomic determinants of kidney vascular development 
 site_author: Jason Smith
-site_url: http://jpsmith5.databio.org/en/latest/
+site_url: https://github.com/jpsmith5/renin_analysis/
 repo_url: https://github.com/jpsmith5/renin_analysis
 
 markdown_extensions:
