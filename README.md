@@ -1,6 +1,6 @@
 # *FoxD1* Cells to Mature Kidney Vasculature
 
-Here we include a step-by-step breakdown of the analyses to reproduce the data presented in "FoxD1 Cells to Mature Kidney Vasculature: A Genetic and Epigenetic Approach".
+Here we include a step-by-step breakdown of the analyses to reproduce the data presented in "Uncovering the epigenomic determinants of kidney vascular development".
 
 | ![expt_model.svg](docs/img/expt_model.svg) |
 |:--:|
