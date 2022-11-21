@@ -35,8 +35,8 @@ nav:
 plugins:
   - search
 
-navbar:
-  right:
-  - text: Software & Data
-    icon: fa-code fa-lg
-    href: https://github.com/jpsmith5/
+#navbar:
+#  right:
+#  - text: Software & Data
+#    icon: fa-code fa-lg
+#    href: https://github.com/jpsmith5/
