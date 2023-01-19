@@ -1,6 +1,10 @@
 theme: databio
 
+<<<<<<< HEAD
 site_name: Epigenetics of kidney vascular development
+=======
+site_name: Kidney vascular developmental trajectory reveals epigenetic determinants of renin cells
+>>>>>>> a645606 (add RENIN analysis)
 site_author: Jason Smith
 site_url: https://renin-analysis.readthedocs.io/en/latest/
 repo_url: https://github.com/jpsmith5/renin_analysis
@@ -31,6 +35,7 @@ nav:
     - 16. Generate signal tracks: '16.R_signal_tracks.md'
     - 17. Plot genes of interest: '17.R_plot_motifs.md'
     - 18. Generate bubble plots: '18.R_generate_bubble_plots.md'
+    - 19. Regulatory network inference: '19.R_RENIN_analysis.md'
 
 plugins:
   - search

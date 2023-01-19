@@ -1,6 +1,6 @@
 # *FoxD1* Cells to Mature Kidney Vasculature
 
-Here we include a step-by-step breakdown of the analyses to reproduce the data presented in "Uncovering the epigenomic determinants of kidney vascular development".
+Here we include a step-by-step breakdown of the analyses to reproduce the data presented in "Kidney vascular developmental trajectory reveals epigenetic determinants of renin cells".
 
 | ![expt_model.svg](img/expt_model.svg) |
 |:--:|
